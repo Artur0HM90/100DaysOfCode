@@ -57,33 +57,33 @@
 
 ## Nivel Avanzado (30 ejercicios)
 
-- [ ] Implementar un algoritmo de ordenamiento (MergeSort, QuickSort, etc.).
-- [ ] Crear un programa para resolver sudokus.
-- [ ] Diseñar un sistema de gestión de biblioteca con préstamos y devoluciones.
-- [ ] Crear un analizador de datos JSON.
-- [ ] Construir una interfaz gráfica básica con botones interactivos.
-- [ ] Crear un bot básico para Telegram o Discord.
-- [ ] Diseñar un simulador de cola usando estructuras de datos.
-- [ ] Implementar un editor de texto simple con funcionalidades básicas.
-- [ ] Crear un generador de diagramas con datos proporcionados.
-- [ ] Simular un sistema de votaciones.
-- [ ] Crear una calculadora científica con funciones avanzadas (sen, cos, log).
-- [ ] Diseñar un sistema de ventas con generación de recibos.
-- [ ] Implementar un sistema de gestión de usuarios con autenticación.
-- [ ] Crear un web scraper básico para extraer datos de una página web.
-- [ ] Implementar un juego de "Buscaminas".
-- [ ] Crear un convertidor de archivos entre formatos de texto.
-- [ ] Diseñar un sistema de reconocimiento de patrones en datos.
-- [ ] Implementar un traductor básico con un diccionario.
-- [ ] Construir una aplicación para gestionar proyectos personales.
-- [ ] Crear un programa para calcular rutas cortas usando grafos.
-- [ ] Diseñar un simulador de tráfico vehicular.
-- [ ] Implementar una API básica para gestionar recursos.
-- [ ] Crear un programa para optimización lineal básica.
-- [ ] Diseñar una simulación de un sistema planetario.
-- [ ] Implementar un sistema de reservas de vuelos.
-- [ ] Crear un bot que interactúe con una base de datos en tiempo real.
-- [ ] Diseñar un programa para gestionar finanzas personales.
-- [ ] Crear una aplicación de mensajería local.
-- [ ] Implementar un motor básico de recomendación.
-- [ ] Crear un juego 2D básico como "Snake" o "Tetris".
+- [ ] 51. Implementar un algoritmo de ordenamiento (MergeSort, QuickSort, etc.).
+- [ ] 52. Crear un programa para resolver sudokus.
+- [ ] 53. Diseñar un sistema de gestión de biblioteca con préstamos y devoluciones.
+- [ ] 54. Crear un analizador de datos JSON.
+- [ ] 55. Construir una interfaz gráfica básica con botones interactivos.
+- [ ] 56. Crear un bot básico para Telegram o Discord.
+- [ ] 57. Diseñar un simulador de cola usando estructuras de datos.
+- [ ] 58. Implementar un editor de texto simple con funcionalidades básicas.
+- [ ] 59. Crear un generador de diagramas con datos proporcionados.
+- [ ] 60. Simular un sistema de votaciones.
+- [ ] 61. Crear una calculadora científica con funciones avanzadas (sen, cos, log).
+- [ ] 62. Diseñar un sistema de ventas con generación de recibos.
+- [ ] 63. Implementar un sistema de gestión de usuarios con autenticación.
+- [ ] 64. Crear un web scraper básico para extraer datos de una página web.
+- [ ] 65. Implementar un juego de "Buscaminas".
+- [ ] 66. Crear un convertidor de archivos entre formatos de texto.
+- [ ] 67. Diseñar un sistema de reconocimiento de patrones en datos.
+- [ ] 68. Implementar un traductor básico con un diccionario.
+- [ ] 69. Construir una aplicación para gestionar proyectos personales.
+- [ ] 70. Crear un programa para calcular rutas cortas usando grafos.
+- [ ] 71. Diseñar un simulador de tráfico vehicular.
+- [ ] 72. Implementar una API básica para gestionar recursos.
+- [ ] 73. Crear un programa para optimización lineal básica.
+- [ ] 74. Diseñar una simulación de un sistema planetario.
+- [ ] 75. Implementar un sistema de reservas de vuelos.
+- [ ] 76. Crear un bot que interactúe con una base de datos en tiempo real.
+- [ ] 77. Diseñar un programa para gestionar finanzas personales.
+- [ ] 78. Crear una aplicación de mensajería local.
+- [ ] 79. Implementar un motor básico de recomendación.
+- [ ] 80. Crear un juego 2D básico como "Snake" o "Tetris".
