@@ -87,3 +87,26 @@
 - [ ] 78. Crear una aplicación de mensajería local.
 - [ ] 79. Implementar un motor básico de recomendación.
 - [ ] 80. Crear un juego 2D básico como "Snake" o "Tetris".
+
+## Nivel Avanzado Superior (20 ejercicios)
+
+- [ ] 81. Implementar un sistema de chat en tiempo real con sockets.
+- [ ] 82. Crear una aplicación de calendario interactivo.
+- [ ] 83. Diseñar un sistema de análisis de sentimientos basado en texto.
+- [ ] 84. Implementar un motor de búsqueda básico.
+- [ ] 85. Crear un sistema de reconocimiento de imágenes.
+- [ ] 86. Diseñar un simulador financiero.
+- [ ] 87. Implementar una aplicación de gestión de tareas colaborativa.
+- [ ] 88. Crear una herramienta para análisis estadístico avanzado.
+- [ ] 89. Diseñar un sistema para rastrear paquetes en tiempo real.
+- [ ] 90. Crear un asistente virtual básico con IA.
+- [ ] 91. Implementar un motor de juego 3D básico.
+- [ ] 92. Diseñar un sistema de monitoreo para IoT.
+- [ ] 93. Crear una plataforma de streaming básica.
+- [ ] 94. Implementar un sistema de reservas hospitalarias.
+- [ ] 95. Crear un simulador de vuelo.
+- [ ] 96. Diseñar una red social interactiva básica.
+- [ ] 97. Implementar un servicio de correo electrónico propio.
+- [ ] 98. Crear un generador de música basado en datos.
+- [ ] 99. Diseñar un sistema de control de inventarios avanzado.
+- [ ] 100. Crear un programa que simule el aprendizaje de un modelo de IA.
