@@ -54,3 +54,36 @@
 - [ ] 48. Implementar un programa para realizar operaciones con matrices.
 - [ ] 49. Crear un programa que simule una carrera de tortugas virtual.
 - [ ] 50. Construir una aplicación de "Lista de deseos".
+
+## Nivel Avanzado (30 ejercicios)
+
+- [ ] Implementar un algoritmo de ordenamiento (MergeSort, QuickSort, etc.).
+- [ ] Crear un programa para resolver sudokus.
+- [ ] Diseñar un sistema de gestión de biblioteca con préstamos y devoluciones.
+- [ ] Crear un analizador de datos JSON.
+- [ ] Construir una interfaz gráfica básica con botones interactivos.
+- [ ] Crear un bot básico para Telegram o Discord.
+- [ ] Diseñar un simulador de cola usando estructuras de datos.
+- [ ] Implementar un editor de texto simple con funcionalidades básicas.
+- [ ] Crear un generador de diagramas con datos proporcionados.
+- [ ] Simular un sistema de votaciones.
+- [ ] Crear una calculadora científica con funciones avanzadas (sen, cos, log).
+- [ ] Diseñar un sistema de ventas con generación de recibos.
+- [ ] Implementar un sistema de gestión de usuarios con autenticación.
+- [ ] Crear un web scraper básico para extraer datos de una página web.
+- [ ] Implementar un juego de "Buscaminas".
+- [ ] Crear un convertidor de archivos entre formatos de texto.
+- [ ] Diseñar un sistema de reconocimiento de patrones en datos.
+- [ ] Implementar un traductor básico con un diccionario.
+- [ ] Construir una aplicación para gestionar proyectos personales.
+- [ ] Crear un programa para calcular rutas cortas usando grafos.
+- [ ] Diseñar un simulador de tráfico vehicular.
+- [ ] Implementar una API básica para gestionar recursos.
+- [ ] Crear un programa para optimización lineal básica.
+- [ ] Diseñar una simulación de un sistema planetario.
+- [ ] Implementar un sistema de reservas de vuelos.
+- [ ] Crear un bot que interactúe con una base de datos en tiempo real.
+- [ ] Diseñar un programa para gestionar finanzas personales.
+- [ ] Crear una aplicación de mensajería local.
+- [ ] Implementar un motor básico de recomendación.
+- [ ] Crear un juego 2D básico como "Snake" o "Tetris".
