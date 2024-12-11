@@ -110,3 +110,36 @@
 - [ ] 98. Crear un generador de música basado en datos.
 - [ ] 99. Diseñar un sistema de control de inventarios avanzado.
 - [ ] 100. Crear un programa que simule el aprendizaje de un modelo de IA.
+
+## Nivel Superior (30 ejercicios extras)
+
+- [ ] 101. Diseñar una plataforma de comercio electrónico desde cero.
+- [ ] 102. Crear un motor de física básica para simulaciones.
+- [ ] 103. Implementar un sistema completo de administración escolar.
+- [ ] 104. Diseñar un analizador financiero basado en predicciones.
+- [ ] 105. Crear un simulador de economía global.
+- [ ] 106. Diseñar una aplicación de navegación GPS interactiva.
+- [ ] 107. Implementar un modelo de predicción meteorológica.
+- [ ] 108. Crear una red neuronal básica para clasificación de imágenes.
+- [ ] 109. Diseñar un sistema de control de tráfico aéreo.
+- [ ] 110. Crear un simulador de ecosistemas con interacción animal.
+- [ ] 111. Implementar una solución de blockchain simplificada.
+- [ ] 112. Diseñar una plataforma de video interactiva.
+- [ ] 113. Crear una herramienta de minería de datos avanzada.
+- [ ] 114. Implementar un asistente virtual que procese voz y texto.
+- [ ] 115. Crear un generador de gráficos 3D interactivo.
+- [ ] 116. Diseñar un motor de búsqueda semántico.
+- [ ] 117. Crear un simulador de mercado financiero avanzado.
+- [ ] 118. Implementar un sistema para diseño de hardware virtual.
+- [ ] 119. Crear una plataforma de aprendizaje adaptativa.
+- [ ] 120. Diseñar un motor de recomendaciones basado en big data.
+- [ ] 121. Crear una simulación de ciudades con gestión de recursos.
+- [ ] 122. Implementar una solución de logística y envíos global.
+- [ ] 123. Diseñar un juego con soporte multijugador en tiempo real.
+- [ ] 124. Crear un sistema de automatización para fábricas.
+- [ ] 125. Implementar un sistema de reconocimiento facial avanzado.
+- [ ] 126. Diseñar una solución para agricultura inteligente.
+- [ ] 127. Crear una plataforma de simulación de negocios.
+- [ ] 128. Implementar un motor de resolución de ecuaciones complejas.
+- [ ] 129. Diseñar una red social con algoritmos avanzados de conexión.
+- [ ] 130. Crear un sistema de predicción de tráfico global.
