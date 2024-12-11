@@ -1,7 +1,7 @@
 # Ejercicios de programación
 ## Nivel Básico (25 ejercicios)
 
-- [x] 1. Calculadora básica (suma, resta, multiplicación, división) [PY](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/Calculadora.py).
+- [x] 1. Calculadora básica (suma, resta, multiplicación, división) [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/Calculadora.py).
 - [ ] 2. Programa para calcular el área de un círculo dado su radio.
 - [ ] 3. Crear un generador de contraseñas aleatorias.
 - [ ] 4. Programa para contar palabras en una oración ingresada por el usuario.
