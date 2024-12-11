@@ -27,3 +27,30 @@
 - [ ] 24. Generar un patrón de triángulo con asteriscos.
 - [ ] 25. Programa para calcular el promedio de N números.
 
+## Nivel Intermedio (25 ejercicios)
+
+- [ ] 26. Crear un conversor de monedas usando tasas actuales.
+- [ ] 27. Crear un sistema de registro de estudiantes con funciones de agregar, eliminar y mostrar.
+- [ ] 28. Diseñar un pequeño juego de adivinanza de números.
+- [ ] 29. Implementar un algoritmo para encontrar números primos en un rango dado.
+- [ ] 30. Crear un programa para cifrar y descifrar textos usando el cifrado César.
+- [ ] 31. Realizar operaciones CRUD (crear, leer, actualizar, eliminar) en una lista de tareas.
+- [ ] 32. Crear una calculadora que acepte expresiones matemáticas como entrada.
+- [ ] 33. Programa para calcular el mínimo común múltiplo y el máximo común divisor de dos números.
+- [ ] 34. Implementar un programa que ordene palabras alfabéticamente de una lista.
+- [ ] 35. Simular un sistema de inventario básico para una tienda.
+- [ ] 36. Programa para convertir números romanos a enteros y viceversa.
+- [ ] 37. Implementar un juego simple de "Ahorcado".
+- [ ] 38. Crear un gráfico de barras básico a partir de datos proporcionados por el usuario.
+- [ ] 39. Crear un programa para analizar texto y contar las palabras más frecuentes.
+- [ ] 40. Construir un programa que calcule raíces cuadradas con Newton-Raphson.
+- [ ] 41. Diseñar un sistema de calificaciones para estudiantes basado en puntajes.
+- [ ] 42. Implementar la búsqueda binaria en una lista ordenada.
+- [ ] 43. Crear una base de datos simple usando un archivo CSV.
+- [ ] 44. Programa para resolver ecuaciones cuadráticas.
+- [ ] 45. Simular una máquina expendedora.
+- [ ] 46. Crear un analizador de archivos (contar líneas, palabras y caracteres).
+- [ ] 47. Diseñar un sistema de reservas para un cine pequeño.
+- [ ] 48. Implementar un programa para realizar operaciones con matrices.
+- [ ] 49. Crear un programa que simule una carrera de tortugas virtual.
+- [ ] 50. Construir una aplicación de "Lista de deseos".
