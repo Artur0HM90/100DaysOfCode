@@ -31,5 +31,5 @@ match elegir:
         else:
             resultado = primerNumero / segundoNumero
 
-print(f"El resultado es {resultado}")
+print(f"El resultado es: {resultado}")
 
