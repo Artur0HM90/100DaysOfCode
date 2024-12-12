@@ -5,7 +5,7 @@
 - [x] 2. Programa para calcular el área de un círculo dado su radio. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/02-CalcularAreaCirculo.py)
 - [ ] 3. Crear un generador de contraseñas aleatorias.
 - [ ] 4. Programa para contar palabras en una oración ingresada por el usuario.
-- [ ] 5. Convertir temperaturas entre Celsius y Fahrenheit.
+- [x] 5. Convertir temperaturas entre Celsius y Fahrenheit. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/03-celsiusFahrenheit.py)
 - [ ] 6. Crear un cronómetro simple.
 - [ ] 7. Generar una tabla de multiplicar de un número ingresado por el usuario.
 - [ ] 8. Programa para determinar si un número es par o impar.
