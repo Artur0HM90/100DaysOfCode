@@ -25,7 +25,7 @@
 - [ ] 22. Crear un conversor de unidades (km a millas, kg a libras, etc.).
 - [ ] 23. Simular el juego de "Piedra, papel o tijera".
 - [ ] 24. Generar un patrón de triángulo con asteriscos.
-- [ ] 25. Programa para calcular el promedio de N números.
+- [x] 25. Programa para calcular el promedio de N números. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/05-promedio.py)
 
 ## Nivel Intermedio (25 ejercicios)
 
