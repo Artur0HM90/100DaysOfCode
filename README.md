@@ -18,11 +18,11 @@
 - [ ] 15. Simular un cajero automático básico.
 - [ ] 16. Generar una lista de números aleatorios.
 - [ ] 17. Programa para encontrar el número más grande y más pequeño en una lista.
-- [ ] 18. Crear un menú interactivo usando condicionales.
+- [x] 18. Crear un menú interactivo usando condicionales. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/06-ConversorKmMillas.py)
 - [ ] 19. Revertir una cadena ingresada por el usuario.
 - [ ] 20. Contar la frecuencia de cada carácter en una cadena.
 - [ ] 21. Ordenar una lista de números ingresados por el usuario.
-- [ ] 22. Crear un conversor de unidades (km a millas, kg a libras, etc.).
+- [x] 22. Crear un conversor de unidades (km a millas, kg a libras, etc.).[py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/06-ConversorKmMillas.py)
 - [ ] 23. Simular el juego de "Piedra, papel o tijera".
 - [ ] 24. Generar un patrón de triángulo con asteriscos.
 - [x] 25. Programa para calcular el promedio de N números. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/05-promedio.py)
