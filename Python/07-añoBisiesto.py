@@ -5,4 +5,4 @@ if (ingreseYear  % 4 == 0) and ( ingreseYear % 100 != 0 or ingreseYear % 400 == 
     print(f"El año {ingreseYear} es bisiesto.")
 
 else:
-    print(f"El año {ingreseYear} no es bisiesto.")
+    print(f"El año {ingreseYear} no es bisiest0.")
