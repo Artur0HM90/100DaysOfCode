@@ -16,7 +16,7 @@
 - [ ] 11. Simular el lanzamiento de un dado.
 - [ ] 12. Crear una agenda de contactos básica usando diccionarios.
 - [ ] 13. Validar si una cadena es un palíndromo.
-- [ ] 14. Determinar si un año es bisiesto.
+- [x] 14. Determinar si un año es bisiesto. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/07-a%C3%B1oBisiesto.py)
 - [ ] 15. Simular un cajero automático básico.
 - [ ] 16. Generar una lista de números aleatorios.
 - [ ] 17. Programa para encontrar el número más grande y más pequeño en una lista.
