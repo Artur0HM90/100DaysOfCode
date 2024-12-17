@@ -14,7 +14,7 @@
 - [ ] 9. Calcular el factorial de un número.
 - [ ] 10. Programa para imprimir los primeros N números de Fibonacci.
 - [ ] 11. Simular el lanzamiento de un dado.
-- [ ] 12. Crear una agenda de contactos básica usando diccionarios.
+- [x] 12. Crear una agenda de contactos básica usando diccionarios. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/10.%20contactos.py)
 - [ ] 13. Validar si una cadena es un palíndromo.
 - [x] 14. Determinar si un año es bisiesto. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/07-a%C3%B1oBisiesto.py)
 - [ ] 15. Simular un cajero automático básico.
