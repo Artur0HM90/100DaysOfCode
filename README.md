@@ -19,7 +19,7 @@
 - [x] 14. Determinar si un año es bisiesto. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/07-a%C3%B1oBisiesto.py)
 - [ ] 15. Simular un cajero automático básico.
 - [ ] 16. Generar una lista de números aleatorios.
-- [ ] 17. Programa para encontrar el número más grande y más pequeño en una lista.
+- [x] 17. Programa para encontrar el número más grande y más pequeño en una lista. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/09-listaNumeroMayorMenor.py)
 - [x] 18. Crear un menú interactivo usando condicionales. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/06-ConversorKmMillas.py)
 - [ ] 19. Revertir una cadena ingresada por el usuario.
 - [ ] 20. Contar la frecuencia de cada carácter en una cadena.
