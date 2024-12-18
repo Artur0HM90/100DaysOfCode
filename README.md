@@ -9,7 +9,7 @@
 - [ ] 4. Programa para contar palabras en una oración ingresada por el usuario.
 - [x] 5. Convertir temperaturas entre Celsius y Fahrenheit. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/03-celsiusFahrenheit.py)
 - [ ] 6. Crear un cronómetro simple.
-- [ ] 7. Generar una tabla de multiplicar de un número ingresado por el usuario.
+- [x] 7. Generar una tabla de multiplicar de un número ingresado por el usuario.[py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/11-tablaDeMultiplicar.py)
 - [x] 8. Programa para determinar si un número es par o impar. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/04-parImpar.py)
 - [ ] 9. Calcular el factorial de un número.
 - [ ] 10. Programa para imprimir los primeros N números de Fibonacci.
