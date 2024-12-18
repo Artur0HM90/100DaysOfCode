@@ -11,7 +11,7 @@
 - [ ] 6. Crear un cronómetro simple.
 - [x] 7. Generar una tabla de multiplicar de un número ingresado por el usuario.[py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/11-tablaDeMultiplicar.py)
 - [x] 8. Programa para determinar si un número es par o impar. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/04-parImpar.py)
-- [ ] 9. Calcular el factorial de un número.
+- [x] 9. Calcular el factorial de un número.[py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/12-calcularFactorial.py)
 - [ ] 10. Programa para imprimir los primeros N números de Fibonacci.
 - [ ] 11. Simular el lanzamiento de un dado.
 - [x] 12. Crear una agenda de contactos básica usando diccionarios. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/10.%20contactos.py)
