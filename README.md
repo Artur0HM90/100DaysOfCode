@@ -17,7 +17,7 @@
 - [x] 12. Crear una agenda de contactos básica usando diccionarios. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/10.%20contactos.py)
 - [ ] 13. Validar si una cadena es un palíndromo.
 - [x] 14. Determinar si un año es bisiesto. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/07-a%C3%B1oBisiesto.py)
-- [ ] 15. Simular un cajero automático básico.
+- [x] 15. Simular un cajero automático básico. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/14-cajeroBasico.py)
 - [ ] 16. Generar una lista de números aleatorios.
 - [x] 17. Programa para encontrar el número más grande y más pequeño en una lista. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/09-listaNumeroMayorMenor.py)
 - [x] 18. Crear un menú interactivo usando condicionales. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/06-ConversorKmMillas.py)
