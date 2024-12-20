@@ -1,5 +1,5 @@
 
-# Ejercicios de programación -- > 14/130
+# Ejercicios de programación -- > 15/130
 
 ## Nivel Básico (25 ejercicios)
 
@@ -12,7 +12,7 @@
 - [x] 7. Generar una tabla de multiplicar de un número ingresado por el usuario.[py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/11-tablaDeMultiplicar.py)
 - [x] 8. Programa para determinar si un número es par o impar. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/04-parImpar.py)
 - [x] 9. Calcular el factorial de un número.[py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/12-calcularFactorial.py)
-- [ ] 10. Programa para imprimir los primeros N números de Fibonacci.
+- [x] 10. Programa para imprimir los primeros N números de Fibonacci.[py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/15-numerosFibonacci.py)
 - [ ] 11. Simular el lanzamiento de un dado.
 - [x] 12. Crear una agenda de contactos básica usando diccionarios. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/10.%20contactos.py)
 - [ ] 13. Validar si una cadena es un palíndromo.
