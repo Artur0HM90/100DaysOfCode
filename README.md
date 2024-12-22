@@ -25,7 +25,7 @@
 - [ ] 20. Contar la frecuencia de cada carácter en una cadena.
 - [x] 21. Ordenar una lista de números ingresados por el usuario.[py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/13-ordenarNumeros.py)
 - [x] 22. Crear un conversor de unidades (km a millas, kg a libras, etc.).[py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/06-ConversorKmMillas.py)
-- [ ] 23. Simular el juego de "Piedra, papel o tijera".
+- [x] 23. Simular el juego de "Piedra, papel o tijera".[py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/17-piedraPapelTijera.py)
 - [x] 24. Generar un patrón de triángulo con asteriscos.[py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/08-trianguloAsteriscos.py)
 - [x] 25. Programa para calcular el promedio de N números.[py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/05-promedio.py)
 
