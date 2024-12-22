@@ -1,11 +1,11 @@
 
-# Ejercicios de programación -- > 15/130
+# Ejercicios de programación -- > 16/130
 
 ## Nivel Básico (25 ejercicios)
 
 - [x] 1. Calculadora básica (suma, resta, multiplicación, división) [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/Calculadora.py).
 - [x] 2. Programa para calcular el área de un círculo dado su radio. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/02-CalcularAreaCirculo.py)
-- [ ] 3. Crear un generador de contraseñas aleatorias.
+- [x] 3. Crear un generador de contraseñas aleatorias.[py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/16-generaContrase%C3%B1a.py)
 - [ ] 4. Programa para contar palabras en una oración ingresada por el usuario.
 - [x] 5. Convertir temperaturas entre Celsius y Fahrenheit. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/03-celsiusFahrenheit.py)
 - [ ] 6. Crear un cronómetro simple.
