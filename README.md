@@ -1,5 +1,5 @@
 
-# Ejercicios de programación -- > 20/130
+# Ejercicios de programación -- > 21/130
 
 ## Nivel Básico (25 ejercicios)
 
@@ -21,7 +21,7 @@
 - [ ] 16. Generar una lista de números aleatorios.
 - [x] 17. Programa para encontrar el número más grande y más pequeño en una lista. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/09-listaNumeroMayorMenor.py)
 - [x] 18. Crear un menú interactivo usando condicionales. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/06-ConversorKmMillas.py)
-- [ ] 19. Revertir una cadena ingresada por el usuario.
+- [x] 19. Revertir una cadena ingresada por el usuario.
 - [ ] 20. Contar la frecuencia de cada carácter en una cadena.
 - [x] 21. Ordenar una lista de números ingresados por el usuario.[py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/13-ordenarNumeros.py)
 - [x] 22. Crear un conversor de unidades (km a millas, kg a libras, etc.).[py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/06-ConversorKmMillas.py)
