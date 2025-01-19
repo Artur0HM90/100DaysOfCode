@@ -1,5 +1,5 @@
 
-# Ejercicios de programación -- > 21/130
+# Ejercicios de programación -- > 22/130
 
 ## Nivel Básico (25 ejercicios)
 
@@ -15,7 +15,7 @@
 - [x] 10. Programa para imprimir los primeros N números de Fibonacci.[py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/15-numerosFibonacci.py)
 - [x] 11. Simular el lanzamiento de un dado.[py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/18-simulaDado.py)
 - [x] 12. Crear una agenda de contactos básica usando diccionarios. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/10.%20contactos.py)
-- [ ] 13. Validar si una cadena es un palíndromo.
+- [x] 13. Validar si una cadena es un palíndromo.
 - [x] 14. Determinar si un año es bisiesto. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/07-a%C3%B1oBisiesto.py)
 - [x] 15. Simular un cajero automático básico. [py](https://github.com/Artur0HM90/100DaysOfCode/blob/main/Python/14-cajeroBasico.py)
 - [ ] 16. Generar una lista de números aleatorios.
